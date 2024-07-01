@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+
 <!--
 **Andrea-Riba/Andrea-Riba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +20,8 @@ Here are some ideas to get you started:
 
 <!--
 https://github.com/anuraghazra/github-readme-stats#top-languages-card
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Riba)](https://github.com/Andrea-Riba/github-readme-stats)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-Riba&layout=donut-vertical)](https://github.com/Andrea-Riba/github-readme-stats)
